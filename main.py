@@ -1,4 +1,4 @@
-print("Hello AI ML")
+print("Hello from main branch")
 print("My first git Project")
 print("Git practice day one")
 print("Learning GitHub")
